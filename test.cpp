@@ -122,7 +122,7 @@ int run_loadFromFile(Table & my_table)
 {
   int result;
   char again;
-  char * filename;
+  char filename[MAX_NAME];
 
   do {
     cout << "Please enter the filename: ";
@@ -130,6 +130,7 @@ int run_loadFromFile(Table & my_table)
     sleep(1);
 
     cout << "Loading data from" << filename << endl;
+    result = my_table.loadFromFile(filename);
 
     switch (result) {
       case 0:

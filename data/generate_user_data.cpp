@@ -98,6 +98,7 @@ std::string generateRandomMovie() {
         if (i > 0) movie += ";";
         movie += generateRandomDirector();
     }
+    movie += ";";
     movie += "|";
     // Generate random number of genres separated by ";"
     int numGenres = rand() % 3 + 1; // Random number of genres (1 to 3)
@@ -105,6 +106,7 @@ std::string generateRandomMovie() {
         if (i > 0) movie += ";";
         movie += generateRandomGenre();
     }
+    movie += ";";
     movie += "|";
     movie += std::to_string(generateRandomAge(25, 10)); // Mean age 25, stddev 10
     movie += "|";

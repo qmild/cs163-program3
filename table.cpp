@@ -152,6 +152,22 @@ int Table::displayAll()
   return 0; 
 }
 
+int countAndFormatList(char *listStart)
+{
+  char *iter = listStart;
+  int count = 0;
+  while(*iter != '|')
+  {
+    if(*iter == ';')
+    {
+      ++count;
+      *iter = '\0';
+    }
+    iter++;
+  }
+  return count;
+}
+
 int Table::loadFromFile(char * filename)
 {
   // assume no UserData member will recieve and entry over 50 characters
@@ -174,97 +190,115 @@ int Table::loadFromFile(char * filename)
   // array to store show data
   UserData data[MAX_NUM_SHOWS];
   // index for data[]
-  int index;
+  int index = 0;
 
   // here we parse the file
   // we load one line from file into buffer for each
   // cycle of the loop until reaching EOF or an error
   while(file.getline(line_buffer, sizeof(line_buffer)))
   {
-    // strtok() terminates each token into substrings with \0
-    // and returns a pointer to a substring. we capture this
-    // with entry_pointer.
-    char* entry_ptr = strtok(line_buffer, "|");
-      while(entry_ptr != nullptr)
-      {
-        // allocate name array on heap with size of name substring
-        // then copy in the name entry
-        data[index].name = new char[strlen(entry_ptr) + 1];
-        strcpy(data[index].name, entry_ptr);
-       
-        // parsing directors takes more work as it is a char**
-        // first we point to the next substring to start parsing directors entry
-        // and then we declare a sub entru pointer to parse each director in the 
-        // directors entry
-        entry_ptr = strtok(line_buffer, "|");
-        char* sub_entry_ptr = entry_ptr;
-        // count how many directors are in this entry
-        char* count_ptr = sub_entry_ptr;
-        data[index].num_directors = 0;
-         while (*count_ptr != '\0') {
-           if(*count_ptr == ';') {
-            ++data[index].num_directors;
-           }
-           ++count_ptr;
-        }
-        ++data[index].num_directors; // no ';' delimeter after last director!
-       
-        // allocate first dimension of directors to the number of directors in 
-        // this entry
-        data[index].directors = new char*[data[index].num_directors];
+    // skip the first |
+    char *start = line_buffer + 1;
 
-        // allocate and copy over each director string for each director[i]
-        for (int i = 0; i < data[index].num_directors; ++i) {
-          data[index].directors[i] = new char[strlen(sub_entry_ptr + 1)];
-          strcpy(data[index].directors[i], sub_entry_ptr);
-          // point to next sub entry
-          sub_entry_ptr = strtok(NULL, ";");
-        }
+    // find the start of the directors section
+    char *directorStart = strstr(start, "|") + 1;
 
-        // repeat above process for genres entry
-        entry_ptr = strtok(line_buffer, "|");
-        sub_entry_ptr = entry_ptr;
+    // get the size of the movie name
+    int movieNameSize = directorStart - start - 1;
 
-        count_ptr = sub_entry_ptr;
-        data[index].num_genres = 0;
-         while (*count_ptr != '\0') {
-           if(*count_ptr == ';') {
-            ++data[index].num_genres;
-           }
-           ++count_ptr;
-        }
-        ++data[index].num_genres; 
-        
-        data[index].genres = new char*[data[index].num_directors];
+    // leave room for '\0'
+    data[index].name = new char[movieNameSize + 1];
 
-        for (int i = 0; i < data[index].num_genres; ++i) {
-          data[index].genres[i] = new char[strlen(sub_entry_ptr + 1)];
-          strcpy(data[index].genres[i], sub_entry_ptr);
-          sub_entry_ptr = strtok(NULL, ";");
-        }
+    // copy the movie name and add '\0'
+    strncpy(data[index].name, start, movieNameSize);
+    data[index].name[movieNameSize] = '\0';
 
-        entry_ptr = strtok(NULL, "|");
-        data[index].user_age = atoi(entry_ptr);
+    // Count the number of directors, replace ; with '\0'
+    int numDirectors = countAndFormatList(directorStart);
 
-        entry_ptr = strtok(NULL, "|");
-        data[index].user_gender = new char[strlen(entry_ptr) + 1];
-        strcpy(data[index].user_gender, entry_ptr);
+    data[index].directors = new char*[numDirectors];
+    data[index].num_directors = numDirectors;
 
-        entry_ptr = strtok(NULL, "|");
-        data[index].user_location = new char[strlen(entry_ptr) + 1];
-        strcpy(data[index].user_location, entry_ptr);
+    // Copy each director name
+    for(int director = 0; director < numDirectors; director++)
+    {
+      data[index].directors[director] = new char[strlen(directorStart) + 1];
+      strcpy(data[index].directors[director], directorStart);
+      directorStart += strlen(directorStart) + 1;
+    }
 
-        entry_ptr = strtok(NULL, "|");
-        data[index].user_rating = atoi(entry_ptr);
+    // skip the "|" again, now we should point to the first genre
+    start = directorStart + 1;
 
-        entry_ptr = strtok(NULL, "|");
-        data[index].user_watch_time = atoi(entry_ptr);
+    int numGenres = countAndFormatList(start);
 
-        ++index; 
+    data[index].genres = new char*[numGenres];
+    data[index].num_genres = numGenres;
 
-      }
+    for(int genre = 0; genre < numGenres; genre++)
+    {
+      data[index].genres[genre] = new char[strlen(start) + 1];
+      strcpy(data[index].genres[genre], start);
+      start += strlen(start) + 1;
+    }
+    
+    // Move to the start of age
+    start = start + 1;
+    char *genderStart = strstr(start, "|") + 1;
+    int ageSize = genderStart - start - 1;
+    
+    // leave room for '\0'
+    char *ageStr = new char[ageSize + 1]; // TODO: DELETE THIS LATER
+
+    // copy the movie name and add '\0'
+    strncpy(ageStr, start, ageSize);
+    ageStr[ageSize] = '\0';
+    data[index].user_age = atoi(ageStr);
+    
+    char *locationStart = strstr(genderStart, "|") + 1;
+    int genderSize = locationStart - genderStart - 1;
+    data[index].user_gender = new char[genderSize + 1];
+    strncpy(data[index].user_gender, genderStart, genderSize);
+    data[index].user_gender[genderSize] = '\0';
+
+    char *ratingStart = strstr(locationStart, "|") + 1;
+    int locationSize = ratingStart - locationStart - 1;
+    data[index].user_location = new char[locationSize + 1];
+    strncpy(data[index].user_location, locationStart, locationSize);
+    data[index].user_location[locationSize] = '\0';
+
+    char *watchTimeStart = strstr(ratingStart, "|") + 1;
+    int ratingSize = watchTimeStart - ratingStart - 1;
+    char *ratingStr = new char[ratingSize + 1]; // TODO: DELETE THIS LATER
+    strncpy(ratingStr, ratingStart, ratingSize);
+    ratingStr[ratingSize] = '\0';
+    data[index].user_rating = atof(ratingStr);
+
+    int watchTimeSize = strlen(watchTimeStart);
+    char *watchTimeStr = new char[watchTimeSize + 1]; // TODO: DELETE THIS LATER
+    strcpy(watchTimeStr, watchTimeStart);
+    data[index].user_watch_time = atoi(watchTimeStr);
+    
+    insert(data[index]);
+    index++;
   }
 
+  // This prints the table back out in the format it was read
+  // for(int i = 0; i < index; i++)
+  // {
+  //   cout << data[i].name << "|";
+  //   for(int j = 0; j < data[i].num_directors; j++)
+  //   {
+  //     cout << data[i].directors[j] << ";";
+  //   }
+  //   cout << "|";
+  //   for(int k = 0; k < data[i].num_genres; k++)
+  //   {
+  //     cout << data[i].genres[k] << ";";
+  //   }
+  //   cout << "|";
+  //   cout << data[i].user_age << "|" << data[i].user_gender << "|" << data[i].user_location << "|" << data[i].user_rating << "|" << data[i].user_watch_time << "|" << endl;
+  // }
 
   return 0;
 }

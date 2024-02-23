@@ -1,200 +1,200 @@
-|Alien|Ang Lee|Comedy|17|Male|Miami|0.500000|104
-|Alien|Clint Eastwood;Akira Kurosawa;Steven Spielberg|Thriller;Comedy|20|Female|Berlin|0.900000|218
-|Alien|David Lynch;Paul Thomas Anderson;Wes Anderson|Comedy|19|Other|Rome|2.500000|230
-|Alien|David Lynch;Quentin Tarantino;James Cameron|Drama;Comedy;Sci-Fi|17|Female|Tokyo|0.400000|198
-|Alien|James Cameron;George Lucas;Ridley Scott|Sci-Fi|33|Male|Rome|3.900000|160
-|Alien|John Woo;Quentin Tarantino;Steven Spielberg|Sci-Fi|21|Male|Los Angeles|2.400000|78
-|Alien|Paul Thomas Anderson;Akira Kurosawa|Action;Thriller|19|Female|Mexico City|1.100000|76
-|Alien|Spike Lee|Drama|35|Other|Toronto|1.800000|125
-|Alien|Wes Anderson|Sci-Fi|30|Male|Mumbai|3.900000|155
-|Avatar|Akira Kurosawa;Paul Thomas Anderson|Comedy|19|Male|Mumbai|0.600000|199
-|Avatar|Alfred Hitchcock|Thriller;Comedy;Thriller|31|Other|Singapore|0.500000|70
-|Avatar|Christopher Nolan;Roman Polanski|Comedy;Drama|22|Other|London|3.500000|85
-|Avatar|David Lynch;Woody Allen;Roman Polanski|Comedy;Comedy;Thriller|34|Male|Mumbai|4.300000|233
-|Avatar|Michael Bay|Thriller|11|Female|London|0.300000|134
-|Avatar|Peter Jackson;Tim Burton|Thriller;Comedy;Action|32|Male|New York|2.200000|198
-|Avatar|Stanley Kubrick;Paul Thomas Anderson;Michael Bay|Thriller;Thriller|46|Male|Rome|3.600000|239
-|Avatar|Steven Spielberg;Woody Allen;Michael Bay|Thriller|9|Male|Chicago|2.600000|134
-|Back to the Future|Ang Lee;Alfred Hitchcock|Drama;Comedy;Action|12|Female|Chicago|0.100000|226
-|Back to the Future|Coen Brothers;John Woo;Christopher Nolan|Sci-Fi;Drama|19|Female|Singapore|0.300000|151
-|Back to the Future|John Woo|Action;Thriller|32|Female|Cairo|0.500000|87
-|Back to the Future|Ridley Scott;Roman Polanski;Michael Bay|Comedy|15|Female|Moscow|0.600000|180
-|Back to the Future|Spike Lee;Woody Allen;Michael Bay|Drama|20|Female|Buenos Aires|0.300000|207
-|Back to the Future|Stanley Kubrick|Comedy;Comedy;Comedy|21|Other|Moscow|0.900000|141
-|Casablanca|Akira Kurosawa;Spike Lee;David Lynch|Sci-Fi;Sci-Fi;Action|29|Other|San Francisco|3.200000|78
-|Casablanca|Ang Lee;Akira Kurosawa;Roman Polanski|Adventure;Adventure;Thriller|22|Male|Cairo|4.400000|199
-|Casablanca|Ang Lee|Action;Thriller|19|Male|Singapore|4.100000|116
-|Casablanca|Clint Eastwood|Adventure;Action;Sci-Fi|28|Male|Madrid|2.500000|120
-|Casablanca|Coen Brothers|Adventure;Drama;Action|30|Female|Singapore|3.700000|164
-|Casablanca|James Cameron|Thriller;Adventure|39|Other|Sydney|4.000000|83
-|Casablanca|Martin Scorsese|Drama|19|Other|Sydney|3.500000|110
-|Casablanca|Michael Bay;David Lynch;Martin Scorsese|Comedy|33|Male|Buenos Aires|0.900000|239
-|Casablanca|Michael Bay|Adventure|18|Male|Toronto|0.800000|88
-|Casablanca|Peter Jackson;Peter Jackson;Peter Jackson|Drama;Sci-Fi|27|Female|Toronto|0.200000|82
-|Casablanca|Roman Polanski;Martin Scorsese;Quentin Tarantino|Comedy;Comedy;Adventure|21|Other|Rio de Janeiro|4.700000|153
-|Casablanca|Spike Lee;Quentin Tarantino|Thriller;Drama;Comedy|30|Other|Mexico City|4.800000|139
-|Casablanca|Spike Lee|Thriller;Comedy|34|Male|Toronto|4.700000|110
-|Casablanca|Steven Spielberg|Drama;Sci-Fi|29|Male|Buenos Aires|3.500000|94
-|Die Hard|Akira Kurosawa;Ang Lee;Martin Scorsese|Thriller;Thriller|32|Male|Berlin|3.700000|115
-|Die Hard|Christopher Nolan;Christopher Nolan;Coen Brothers|Comedy|19|Female|Dubai|1.300000|141
-|Die Hard|Christopher Nolan;Spike Lee;Ang Lee|Comedy;Adventure|33|Other|Los Angeles|3.000000|226
-|Die Hard|Tim Burton|Sci-Fi;Comedy;Adventure|47|Male|Los Angeles|4.100000|120
-|Die Hard|Woody Allen;Michael Bay|Action|35|Other|Buenos Aires|2.600000|213
-|E.T.|Akira Kurosawa;Michael Bay|Adventure|52|Female|Rio de Janeiro|3.200000|138
-|E.T.|David Fincher;Christopher Nolan;Alfred Hitchcock|Action;Thriller|27|Female|Rome|2.400000|155
-|E.T.|George Lucas|Adventure|15|Other|Buenos Aires|1.800000|208
-|E.T.|John Woo;Woody Allen|Thriller|28|Female|Rio de Janeiro|4.400000|104
-|E.T.|Michael Bay;George Lucas|Adventure;Comedy|34|Female|Cairo|2.200000|101
-|E.T.|Tim Burton;James Cameron;Quentin Tarantino|Comedy;Thriller|8|Other|Bangkok|3.100000|129
-|E.T.|Woody Allen;Tim Burton|Thriller;Drama;Drama|10|Male|London|4.000000|223
-|Fight Club|Alfred Hitchcock;Wes Anderson|Sci-Fi;Comedy;Adventure|35|Female|Rio de Janeiro|2.500000|235
-|Fight Club|John Woo|Adventure;Drama;Comedy|42|Female|Paris|3.100000|153
-|Fight Club|Woody Allen;Michael Bay|Thriller;Adventure;Drama|18|Male|Madrid|4.300000|163
-|Forrest Gump|Alfred Hitchcock;Wes Anderson;James Cameron|Thriller|29|Other|Beijing|4.800000|203
-|Forrest Gump|Alfred Hitchcock|Comedy;Comedy;Comedy|31|Female|Mumbai|2.100000|120
-|Forrest Gump|David Lynch|Adventure;Comedy;Comedy|21|Male|New York|4.800000|197
-|Forrest Gump|John Woo|Comedy;Action;Comedy|22|Female|San Francisco|1.100000|203
-|Forrest Gump|Martin Scorsese|Action;Thriller|29|Male|Paris|1.000000|122
-|Forrest Gump|Quentin Tarantino;Ang Lee|Thriller|46|Male|Mexico City|0.100000|73
-|Forrest Gump|Stanley Kubrick;James Cameron|Comedy;Comedy;Thriller|42|Male|Mumbai|5.000000|116
-|Gladiator|Akira Kurosawa;Ridley Scott|Sci-Fi;Adventure;Sci-Fi|23|Other|Dubai|3.800000|167
-|Gladiator|Christopher Nolan|Comedy;Thriller|37|Other|Moscow|1.900000|148
-|Gladiator|James Cameron;Roman Polanski|Comedy;Drama;Adventure|26|Male|Singapore|1.300000|163
-|Gladiator|Paul Thomas Anderson|Action;Action;Sci-Fi|32|Female|Madrid|3.600000|182
-|Gladiator|Paul Thomas Anderson|Adventure;Comedy;Adventure|25|Other|Beijing|0.300000|158
-|Gladiator|Peter Jackson;David Lynch;Martin Scorsese|Sci-Fi;Thriller|19|Female|Toronto|3.900000|228
-|Gladiator|Ridley Scott;James Cameron;David Fincher|Drama;Sci-Fi|51|Female|Bangkok|2.300000|130
-|Gladiator|Stanley Kubrick;John Woo|Comedy;Comedy;Comedy|30|Female|Bangkok|4.700000|172
-|Harry Potter|Christopher Nolan;Coen Brothers;John Woo|Sci-Fi|26|Male|New York|0.000000|112
-|Harry Potter|David Lynch;Francis Ford Coppola|Comedy;Adventure|40|Male|Mumbai|3.300000|236
-|Harry Potter|Francis Ford Coppola|Adventure|26|Female|São Paulo|2.900000|185
-|Harry Potter|John Woo|Action;Drama;Thriller|24|Male|Singapore|1.700000|189
-|Harry Potter|John Woo|Thriller|39|Female|Madrid|4.300000|60
-|Harry Potter|Martin Scorsese|Comedy|42|Female|Toronto|3.300000|160
-|Harry Potter|Martin Scorsese|Thriller;Action|19|Male|Miami|2.200000|133
-|Harry Potter|Quentin Tarantino;Steven Spielberg;Alfred Hitchcock|Comedy;Sci-Fi|40|Female|Singapore|2.400000|158
-|Harry Potter|Ridley Scott;Christopher Nolan;Peter Jackson|Comedy;Comedy|11|Male|Rio de Janeiro|1.200000|218
-|Inception|John Woo;Spike Lee;Francis Ford Coppola|Adventure;Drama|39|Other|Cairo|4.400000|174
-|Inception|John Woo;Spike Lee|Adventure|36|Other|Cairo|1.000000|120
-|Inception|Ridley Scott;Stanley Kubrick;Clint Eastwood|Drama;Sci-Fi|19|Other|New York|2.900000|110
-|Inception|Stanley Kubrick|Adventure;Drama;Adventure|42|Female|Buenos Aires|3.000000|78
-|Indiana Jones|Alfred Hitchcock|Drama;Sci-Fi|24|Female|Los Angeles|0.100000|219
-|Indiana Jones|George Lucas;Francis Ford Coppola;Ridley Scott|Adventure|20|Male|Seoul|1.800000|202
-|Indiana Jones|George Lucas|Adventure;Action;Thriller|27|Female|New York|3.600000|200
-|Indiana Jones|James Cameron|Comedy;Action;Comedy|12|Other|Mumbai|2.400000|196
-|Indiana Jones|Paul Thomas Anderson;Quentin Tarantino;Stanley Kubrick|Thriller;Drama|8|Male|Buenos Aires|3.700000|197
-|Indiana Jones|Quentin Tarantino|Drama;Action|11|Other|Toronto|4.900000|220
-|Indiana Jones|Roman Polanski|Drama;Comedy;Sci-Fi|18|Other|Mexico City|0.500000|108
-|Indiana Jones|Steven Spielberg;Francis Ford Coppola|Thriller|9|Male|Mumbai|3.500000|223
-|Indiana Jones|Tim Burton;John Woo;Clint Eastwood|Action;Drama|14|Other|São Paulo|2.600000|151
-|Jurassic Park|Akira Kurosawa;Woody Allen|Drama;Sci-Fi|7|Other|Berlin|3.200000|95
-|Jurassic Park|James Cameron;Martin Scorsese;Akira Kurosawa|Drama;Action|17|Female|Toronto|4.600000|118
-|Jurassic Park|Martin Scorsese;David Lynch;Michael Bay|Comedy|14|Female|Moscow|2.600000|87
-|Jurassic Park|Martin Scorsese|Thriller;Thriller|30|Male|Cairo|3.000000|110
-|Jurassic Park|Peter Jackson;John Woo|Drama;Thriller|16|Female|Cairo|1.500000|197
-|Jurassic Park|Peter Jackson;Woody Allen;Quentin Tarantino|Drama|7|Male|Tokyo|3.500000|93
-|Jurassic Park|Tim Burton;Tim Burton|Adventure;Comedy|35|Other|Singapore|1.700000|215
-|Jurassic Park|Wes Anderson;Michael Bay;Steven Spielberg|Thriller|19|Other|Seoul|3.500000|155
-|Pulp Fiction|George Lucas;James Cameron;Spike Lee|Drama|26|Male|Mexico City|1.800000|186
-|Pulp Fiction|James Cameron;Steven Spielberg|Action;Comedy;Sci-Fi|29|Female|New York|4.600000|167
-|Pulp Fiction|Quentin Tarantino;David Lynch;Alfred Hitchcock|Drama;Action|33|Male|Chicago|2.800000|142
-|Star Wars|Alfred Hitchcock|Adventure;Sci-Fi;Action|26|Male|New York|2.100000|78
-|Star Wars|Alfred Hitchcock|Sci-Fi;Thriller;Sci-Fi|29|Female|Toronto|2.900000|90
-|Star Wars|Ang Lee|Drama|28|Male|Moscow|1.400000|180
-|Star Wars|Christopher Nolan;Spike Lee|Comedy;Sci-Fi|6|Female|New York|1.600000|224
-|Star Wars|Christopher Nolan|Sci-Fi;Adventure|13|Other|Cairo|1.200000|194
-|Star Wars|George Lucas;Peter Jackson;David Fincher|Adventure;Drama|21|Female|Los Angeles|3.600000|125
-|Star Wars|Quentin Tarantino;Wes Anderson|Drama;Sci-Fi|22|Other|Sydney|0.500000|208
-|Star Wars|Steven Spielberg|Adventure|17|Male|Seoul|0.700000|238
-|Star Wars|Tim Burton;Woody Allen|Thriller|34|Male|Mexico City|0.200000|226
-|Star Wars|Woody Allen|Adventure|35|Other|Madrid|4.900000|151
-|The Avengers|Alfred Hitchcock;Alfred Hitchcock;Roman Polanski|Thriller;Action|12|Other|Buenos Aires|4.700000|76
-|The Avengers|Alfred Hitchcock;Stanley Kubrick;Stanley Kubrick|Action;Adventure;Drama|13|Male|Mexico City|1.100000|197
-|The Avengers|Coen Brothers;Stanley Kubrick;Ridley Scott|Comedy|38|Male|Toronto|3.100000|218
-|The Avengers|David Fincher;David Lynch|Adventure;Sci-Fi;Comedy|25|Male|Los Angeles|4.800000|171
-|The Avengers|David Lynch|Comedy;Action;Thriller|13|Male|Chicago|2.200000|90
-|The Avengers|Quentin Tarantino;David Lynch;Francis Ford Coppola|Action;Drama|20|Female|Buenos Aires|0.100000|213
-|The Avengers|Spike Lee;Ang Lee;Quentin Tarantino|Comedy|29|Male|London|4.900000|220
-|The Avengers|Stanley Kubrick;Tim Burton|Thriller|31|Female|Rome|4.700000|126
-|The Avengers|Woody Allen;Christopher Nolan|Action;Adventure|23|Other|Rio de Janeiro|2.500000|104
-|The Dark Knight|Christopher Nolan|Action;Thriller|25|Other|New York|4.400000|152
-|The Dark Knight|Christopher Nolan|Sci-Fi;Comedy|25|Male|Rio de Janeiro|3.800000|81
-|The Dark Knight|James Cameron|Adventure|22|Male|Cairo|3.500000|100
-|The Dark Knight|John Woo;Spike Lee|Adventure;Adventure;Drama|31|Female|Paris|5.000000|232
-|The Dark Knight|Martin Scorsese;Roman Polanski|Action;Drama;Thriller|7|Female|New York|4.700000|199
-|The Dark Knight|Michael Bay;Roman Polanski;Peter Jackson|Adventure;Adventure;Sci-Fi|14|Other|São Paulo|1.600000|141
-|The Dark Knight|Michael Bay|Sci-Fi|27|Female|Beijing|0.900000|138
-|The Dark Knight|Quentin Tarantino|Sci-Fi;Drama;Comedy|27|Male|Buenos Aires|0.400000|221
-|The Dark Knight|Ridley Scott|Thriller;Drama|9|Male|Sydney|3.800000|132
-|The Dark Knight|Woody Allen;Spike Lee|Adventure;Action|30|Female|Rome|1.100000|235
-|The Dark Knight|Woody Allen|Comedy;Sci-Fi|31|Female|Mumbai|2.400000|129
-|The Exorcist|Francis Ford Coppola;Ridley Scott|Adventure;Drama;Comedy|47|Other|Rio de Janeiro|0.400000|223
-|The Exorcist|Martin Scorsese;Clint Eastwood|Action;Adventure;Action|23|Other|Seoul|1.800000|106
-|The Exorcist|Martin Scorsese;Woody Allen|Sci-Fi;Adventure;Action|25|Female|London|2.200000|102
-|The Exorcist|Paul Thomas Anderson|Adventure|24|Other|Rome|1.700000|195
-|The Exorcist|Tim Burton;Clint Eastwood;Francis Ford Coppola|Sci-Fi;Action;Adventure|12|Male|Dubai|4.700000|226
-|The Exorcist|Tim Burton|Adventure;Thriller;Adventure|30|Male|Mexico City|0.400000|118
-|The Exorcist|Woody Allen;Wes Anderson;Akira Kurosawa|Thriller|7|Other|Berlin|0.300000|239
-|The Godfather|Clint Eastwood;Michael Bay|Action;Adventure;Action|20|Male|Paris|0.800000|89
-|The Godfather|Clint Eastwood;Wes Anderson;Peter Jackson|Thriller;Thriller;Drama|24|Female|Moscow|0.900000|108
-|The Godfather|Clint Eastwood|Thriller;Action|20|Male|Miami|0.300000|67
-|The Godfather|Coen Brothers;Stanley Kubrick|Adventure;Drama;Thriller|34|Female|Paris|0.200000|201
-|The Godfather|Francis Ford Coppola;George Lucas;Francis Ford Coppola|Thriller;Adventure|0|Male|Rome|2.400000|112
-|The Godfather|James Cameron;Tim Burton;Tim Burton|Sci-Fi;Comedy;Comedy|23|Male|Dubai|0.700000|138
-|The Godfather|Martin Scorsese|Adventure;Comedy;Sci-Fi|21|Female|Miami|2.400000|152
-|The Godfather|Paul Thomas Anderson;Paul Thomas Anderson|Drama|13|Female|Los Angeles|2.800000|105
-|The Godfather|Peter Jackson;Ridley Scott;Paul Thomas Anderson|Action;Sci-Fi|29|Other|London|0.900000|175
-|The Godfather|Quentin Tarantino|Sci-Fi|26|Female|Sydney|1.700000|161
-|The Godfather|Spike Lee|Sci-Fi;Action|16|Other|Singapore|3.600000|67
-|The Godfather|Wes Anderson;James Cameron|Comedy;Action;Sci-Fi|32|Female|Buenos Aires|0.000000|177
-|The Lion King|Alfred Hitchcock;Ang Lee;David Lynch|Adventure;Thriller;Drama|26|Male|New York|0.800000|81
-|The Lion King|Alfred Hitchcock|Thriller|14|Female|Toronto|0.700000|98
-|The Lion King|Christopher Nolan;Paul Thomas Anderson;David Fincher|Action;Drama;Drama|45|Male|Chicago|0.400000|118
-|The Lion King|Clint Eastwood|Drama;Drama;Comedy|42|Female|Los Angeles|1.000000|83
-|The Lion King|Coen Brothers;Tim Burton|Drama;Sci-Fi|40|Male|Madrid|2.700000|62
-|The Lion King|Francis Ford Coppola;John Woo;Martin Scorsese|Thriller|29|Other|Chicago|1.400000|201
-|The Lion King|James Cameron;Christopher Nolan;Wes Anderson|Comedy;Thriller;Action|33|Other|Rome|0.700000|111
-|The Lion King|Roman Polanski;Paul Thomas Anderson;George Lucas|Action;Comedy;Adventure|29|Female|San Francisco|4.400000|206
-|The Lion King|Spike Lee;Christopher Nolan|Sci-Fi;Drama;Adventure|12|Male|Moscow|2.500000|135
-|The Lion King|Spike Lee;Clint Eastwood;Akira Kurosawa|Action|9|Male|Rome|1.800000|218
-|The Lion King|Spike Lee|Thriller;Action|29|Other|Los Angeles|4.400000|88
-|The Lion King|Stanley Kubrick;David Fincher|Sci-Fi|26|Male|Cairo|4.700000|212
-|The Lion King|Woody Allen;Ang Lee;George Lucas|Comedy|36|Male|Toronto|2.800000|105
-|The Lord of the Rings|Alfred Hitchcock;Woody Allen|Action;Adventure;Thriller|30|Male|Madrid|1.100000|144
-|The Lord of the Rings|Francis Ford Coppola;Martin Scorsese;Clint Eastwood|Drama;Action;Adventure|22|Other|Beijing|3.700000|183
-|The Lord of the Rings|George Lucas;Woody Allen;Peter Jackson|Sci-Fi|33|Female|Bangkok|0.400000|63
-|The Lord of the Rings|Ridley Scott;Ang Lee|Drama;Thriller;Adventure|27|Other|Rio de Janeiro|2.200000|101
-|The Lord of the Rings|Ridley Scott|Action;Thriller|25|Male|New York|1.000000|110
-|The Lord of the Rings|Roman Polanski;Peter Jackson|Comedy;Action|11|Other|São Paulo|0.300000|79
-|The Lord of the Rings|Tim Burton;Paul Thomas Anderson;Tim Burton|Thriller;Thriller;Comedy|25|Female|Moscow|3.200000|64
-|The Lord of the Rings|Tim Burton;Paul Thomas Anderson|Action;Comedy;Action|22|Male|Seoul|0.900000|174
-|The Lord of the Rings|Woody Allen|Action;Sci-Fi|9|Other|Tokyo|4.000000|86
-|The Matrix|Clint Eastwood|Adventure|18|Female|Mexico City|4.200000|93
-|The Matrix|David Fincher|Sci-Fi;Sci-Fi|40|Male|Los Angeles|3.900000|140
-|The Matrix|John Woo;Ang Lee;Michael Bay|Drama;Comedy;Drama|34|Female|Rio de Janeiro|3.100000|106
-|The Matrix|Quentin Tarantino;Woody Allen|Adventure;Adventure;Thriller|21|Other|Beijing|2.100000|164
-|The Matrix|Steven Spielberg;Michael Bay|Sci-Fi|44|Other|Bangkok|3.400000|86
-|The Matrix|Tim Burton;Wes Anderson|Action;Adventure|41|Other|Paris|4.700000|211
-|The Matrix|Tim Burton|Thriller;Sci-Fi;Drama|29|Female|Buenos Aires|2.400000|205
-|The Matrix|Wes Anderson;Christopher Nolan|Comedy;Sci-Fi;Adventure|21|Other|Seoul|4.800000|236
-|The Matrix|Wes Anderson;Martin Scorsese|Comedy|33|Female|Beijing|0.900000|62
-|The Matrix|Wes Anderson|Comedy;Sci-Fi;Thriller|35|Female|Paris|4.900000|83
-|The Shawshank Redemption|Clint Eastwood|Adventure|10|Other|Seoul|2.700000|120
-|The Shawshank Redemption|David Lynch|Adventure;Action|36|Other|Rio de Janeiro|1.800000|235
-|The Shawshank Redemption|John Woo|Adventure;Drama|23|Other|Beijing|1.900000|233
-|The Shawshank Redemption|Ridley Scott;Michael Bay;Alfred Hitchcock|Comedy;Thriller|11|Male|Mumbai|0.500000|105
-|The Shawshank Redemption|Steven Spielberg|Action;Thriller|5|Other|Berlin|0.400000|188
-|The Shawshank Redemption|Wes Anderson;John Woo;Clint Eastwood|Adventure|3|Male|Cairo|3.200000|63
-|The Shawshank Redemption|Woody Allen;Stanley Kubrick;John Woo|Adventure;Adventure;Drama|9|Female|Rome|2.800000|160
-|The Terminator|Ang Lee;Francis Ford Coppola|Drama|18|Female|Berlin|2.700000|186
-|The Terminator|Coen Brothers|Action;Drama|35|Female|Berlin|2.200000|208
-|The Terminator|David Lynch;Clint Eastwood;Wes Anderson|Action;Comedy|21|Male|Chicago|3.200000|83
-|The Terminator|John Woo;Francis Ford Coppola|Sci-Fi|17|Other|Miami|2.200000|194
-|The Terminator|Peter Jackson;Quentin Tarantino|Action|13|Female|Mexico City|4.800000|67
-|The Terminator|Roman Polanski|Action;Sci-Fi|24|Male|Berlin|3.200000|169
-|The Terminator|Roman Polanski|Adventure;Comedy|33|Other|Tokyo|2.200000|135
-|The Terminator|Stanley Kubrick;David Lynch|Drama|31|Male|San Francisco|0.800000|118
-|The Terminator|Wes Anderson;Michael Bay|Thriller;Sci-Fi|22|Male|San Francisco|0.600000|61
-|Titanic|David Fincher;Paul Thomas Anderson|Sci-Fi;Thriller|19|Other|Toronto|3.800000|156
-|Titanic|Martin Scorsese;Paul Thomas Anderson|Adventure|25|Female|Toronto|1.700000|230
-|Titanic|Michael Bay|Thriller;Drama;Thriller|10|Female|Singapore|4.300000|106
+|Alien|Akira Kurosawa;Spike Lee;Roman Polanski;|Drama;Adventure;Comedy;|16|Other|Madrid|3.800000|74
+|Alien|John Woo;George Lucas;Martin Scorsese;|Thriller;|31|Male|San Francisco|0.900000|83
+|Alien|Michael Bay;|Drama;|12|Female|Singapore|1.700000|73
+|Alien|Stanley Kubrick;Spike Lee;Ang Lee;|Drama;Adventure;|24|Female|Mexico City|0.400000|167
+|Alien|Tim Burton;John Woo;|Thriller;Comedy;Drama;|48|Female|Tokyo|2.400000|194
+|Avatar|Akira Kurosawa;Paul Thomas Anderson;|Drama;Action;|34|Female|Beijing|1.900000|215
+|Avatar|Christopher Nolan;Paul Thomas Anderson;|Action;Drama;Comedy;|32|Male|Seoul|3.300000|227
+|Avatar|Clint Eastwood;Quentin Tarantino;|Drama;Adventure;Adventure;|15|Female|San Francisco|2.800000|63
+|Avatar|Coen Brothers;David Lynch;Michael Bay;|Drama;Adventure;|15|Male|Moscow|3.900000|74
+|Avatar|David Lynch;Coen Brothers;|Adventure;Thriller;Action;|37|Other|Berlin|0.600000|128
+|Avatar|George Lucas;James Cameron;Francis Ford Coppola;|Adventure;Thriller;|11|Female|New York|0.800000|107
+|Avatar|James Cameron;John Woo;Ridley Scott;|Adventure;|27|Male|Dubai|0.900000|113
+|Avatar|John Woo;|Adventure;Adventure;Adventure;|28|Female|San Francisco|1.000000|162
+|Avatar|Paul Thomas Anderson;John Woo;Steven Spielberg;|Action;|22|Female|Bangkok|4.000000|97
+|Avatar|Spike Lee;|Thriller;Adventure;|14|Male|Rome|1.200000|61
+|Avatar|Tim Burton;Martin Scorsese;James Cameron;|Action;Action;|36|Female|New York|0.200000|213
+|Back to the Future|Christopher Nolan;Tim Burton;James Cameron;|Drama;Drama;Comedy;|25|Male|Buenos Aires|3.800000|83
+|Back to the Future|Paul Thomas Anderson;Wes Anderson;|Action;Drama;Sci-Fi;|15|Other|Paris|0.900000|223
+|Back to the Future|Roman Polanski;Ang Lee;|Thriller;Sci-Fi;|39|Female|Singapore|2.700000|142
+|Back to the Future|Steven Spielberg;Peter Jackson;|Adventure;|42|Other|Los Angeles|2.400000|226
+|Back to the Future|Steven Spielberg;|Adventure;Sci-Fi;|38|Female|Beijing|3.800000|193
+|Back to the Future|Wes Anderson;David Fincher;|Comedy;|27|Male|Miami|4.900000|202
+|Back to the Future|Woody Allen;|Thriller;Thriller;|17|Male|Toronto|1.900000|78
+|Casablanca|Akira Kurosawa;Clint Eastwood;Spike Lee;|Sci-Fi;|30|Male|London|0.500000|217
+|Casablanca|Clint Eastwood;Ridley Scott;|Drama;Thriller;Adventure;|11|Male|Madrid|2.500000|141
+|Casablanca|Clint Eastwood;|Adventure;Drama;Drama;|25|Other|Rome|0.400000|122
+|Casablanca|John Woo;Christopher Nolan;|Action;|35|Female|Buenos Aires|2.000000|102
+|Casablanca|Quentin Tarantino;|Adventure;Adventure;|15|Male|Chicago|4.300000|237
+|Die Hard|Ang Lee;Akira Kurosawa;|Comedy;Sci-Fi;|13|Other|San Francisco|1.300000|230
+|Die Hard|Ang Lee;|Thriller;Thriller;|37|Male|Los Angeles|4.200000|206
+|Die Hard|Stanley Kubrick;Woody Allen;Christopher Nolan;|Thriller;|13|Other|Cairo|0.200000|62
+|Die Hard|Wes Anderson;|Action;Action;|29|Male|Beijing|2.100000|225
+|E.T.|Alfred Hitchcock;Spike Lee;|Sci-Fi;Adventure;|26|Other|Rome|0.500000|103
+|E.T.|Ang Lee;|Comedy;|17|Male|Mexico City|0.900000|194
+|E.T.|Coen Brothers;David Lynch;|Sci-Fi;Adventure;Adventure;|32|Other|Buenos Aires|0.200000|63
+|E.T.|George Lucas;Ridley Scott;David Fincher;|Comedy;Adventure;Action;|21|Male|Mumbai|3.000000|65
+|E.T.|James Cameron;|Adventure;Adventure;Adventure;|20|Male|Dubai|3.400000|230
+|E.T.|Michael Bay;|Sci-Fi;Drama;Thriller;|32|Male|Mexico City|0.300000|198
+|E.T.|Paul Thomas Anderson;John Woo;Roman Polanski;|Sci-Fi;|17|Female|Los Angeles|2.400000|179
+|E.T.|Paul Thomas Anderson;|Adventure;Comedy;Sci-Fi;|47|Male|New York|0.100000|195
+|E.T.|Steven Spielberg;David Fincher;|Action;Drama;|21|Male|Mumbai|3.600000|119
+|E.T.|Steven Spielberg;|Thriller;Sci-Fi;|36|Female|Bangkok|2.500000|119
+|E.T.|Wes Anderson;David Lynch;|Sci-Fi;|25|Male|São Paulo|5.000000|78
+|Fight Club|Akira Kurosawa;Wes Anderson;Martin Scorsese;|Thriller;Sci-Fi;|25|Male|Dubai|3.400000|135
+|Fight Club|Akira Kurosawa;|Adventure;Adventure;|10|Male|Miami|3.300000|162
+|Fight Club|Christopher Nolan;Alfred Hitchcock;|Thriller;Comedy;Comedy;|10|Female|Mexico City|3.800000|79
+|Fight Club|Christopher Nolan;Stanley Kubrick;James Cameron;|Adventure;|14|Male|London|3.400000|80
+|Fight Club|David Fincher;Francis Ford Coppola;James Cameron;|Action;Thriller;|8|Female|Mumbai|2.000000|170
+|Fight Club|Francis Ford Coppola;Michael Bay;Roman Polanski;|Thriller;Sci-Fi;|29|Other|London|3.100000|127
+|Fight Club|John Woo;Paul Thomas Anderson;Coen Brothers;|Sci-Fi;Thriller;Thriller;|29|Other|Singapore|2.800000|79
+|Fight Club|Roman Polanski;Alfred Hitchcock;|Thriller;Thriller;|39|Female|Rio de Janeiro|1.700000|193
+|Fight Club|Wes Anderson;|Adventure;Comedy;|20|Male|New York|2.900000|205
+|Forrest Gump|Alfred Hitchcock;Quentin Tarantino;|Action;Drama;Action;|16|Male|Madrid|3.700000|166
+|Forrest Gump|Christopher Nolan;|Adventure;Adventure;|42|Other|Los Angeles|1.700000|90
+|Forrest Gump|Francis Ford Coppola;Alfred Hitchcock;Ang Lee;|Adventure;Sci-Fi;Action;|23|Female|Los Angeles|3.500000|116
+|Forrest Gump|Martin Scorsese;David Fincher;|Thriller;Adventure;Comedy;|37|Female|London|4.400000|172
+|Forrest Gump|Michael Bay;|Thriller;|9|Male|Singapore|0.700000|81
+|Forrest Gump|Peter Jackson;Quentin Tarantino;|Action;Comedy;|33|Female|Dubai|3.900000|83
+|Forrest Gump|Peter Jackson;|Sci-Fi;Sci-Fi;|17|Female|Miami|1.000000|194
+|Forrest Gump|Ridley Scott;|Sci-Fi;Adventure;|19|Female|Berlin|0.800000|139
+|Forrest Gump|Roman Polanski;Ang Lee;Paul Thomas Anderson;|Thriller;|27|Other|Bangkok|4.300000|171
+|Forrest Gump|Wes Anderson;Woody Allen;|Action;Thriller;|27|Male|Seoul|0.700000|165
+|Forrest Gump|Wes Anderson;|Sci-Fi;Comedy;|22|Male|Paris|4.800000|206
+|Gladiator|Alfred Hitchcock;Akira Kurosawa;Stanley Kubrick;|Thriller;Action;Action;|23|Male|Cairo|2.600000|199
+|Gladiator|Christopher Nolan;|Sci-Fi;|33|Other|Rio de Janeiro|3.200000|164
+|Gladiator|Coen Brothers;Michael Bay;|Comedy;|23|Other|Mexico City|3.600000|217
+|Gladiator|Coen Brothers;Stanley Kubrick;Woody Allen;|Comedy;Action;|23|Male|Chicago|1.100000|146
+|Gladiator|David Fincher;Akira Kurosawa;|Drama;Thriller;|17|Female|Toronto|1.900000|131
+|Gladiator|David Lynch;Christopher Nolan;|Drama;Thriller;Drama;|13|Female|Dubai|0.500000|114
+|Gladiator|George Lucas;Paul Thomas Anderson;David Fincher;|Thriller;|11|Other|Miami|3.700000|145
+|Gladiator|John Woo;James Cameron;Roman Polanski;|Sci-Fi;|20|Other|New York|3.200000|97
+|Gladiator|Michael Bay;John Woo;Ridley Scott;|Sci-Fi;|29|Male|London|3.200000|171
+|Gladiator|Paul Thomas Anderson;|Action;|26|Other|Rome|1.400000|130
+|Gladiator|Paul Thomas Anderson;|Drama;Adventure;|38|Male|Buenos Aires|1.300000|158
+|Gladiator|Quentin Tarantino;|Drama;Drama;|24|Other|Sydney|3.800000|157
+|Gladiator|Steven Spielberg;David Lynch;Coen Brothers;|Comedy;Adventure;Sci-Fi;|25|Other|San Francisco|2.900000|166
+|Harry Potter|Alfred Hitchcock;|Drama;|27|Female|Berlin|4.600000|205
+|Harry Potter|Ang Lee;Steven Spielberg;|Sci-Fi;|16|Female|Chicago|1.400000|123
+|Harry Potter|David Fincher;Peter Jackson;David Lynch;|Thriller;Thriller;|11|Male|Toronto|1.000000|191
+|Harry Potter|Martin Scorsese;Martin Scorsese;|Adventure;|19|Male|Sydney|1.900000|194
+|Harry Potter|Martin Scorsese;Quentin Tarantino;|Adventure;|16|Other|Rome|2.900000|145
+|Harry Potter|Michael Bay;|Drama;Thriller;|37|Other|Bangkok|4.500000|93
+|Harry Potter|Paul Thomas Anderson;Christopher Nolan;Stanley Kubrick;|Thriller;Drama;Drama;|7|Other|Berlin|2.100000|176
+|Harry Potter|Peter Jackson;Steven Spielberg;Clint Eastwood;|Comedy;Thriller;|13|Male|Sydney|3.700000|138
+|Harry Potter|Ridley Scott;Ridley Scott;David Lynch;|Adventure;Adventure;|29|Female|Rome|4.000000|119
+|Inception|Michael Bay;David Lynch;|Comedy;Comedy;Comedy;|20|Male|Cairo|3.200000|203
+|Inception|Michael Bay;|Action;|22|Male|Rio de Janeiro|1.400000|136
+|Inception|Roman Polanski;Coen Brothers;|Comedy;Sci-Fi;|35|Other|Toronto|0.200000|92
+|Inception|Roman Polanski;|Sci-Fi;Thriller;Adventure;|14|Other|Mexico City|0.900000|187
+|Inception|Woody Allen;David Lynch;Ang Lee;|Adventure;Comedy;Action;|29|Female|Seoul|1.500000|190
+|Indiana Jones|Alfred Hitchcock;Michael Bay;Woody Allen;|Adventure;Thriller;|39|Male|Sydney|1.700000|106
+|Indiana Jones|Clint Eastwood;|Drama;Drama;Drama;|23|Male|Moscow|4.800000|82
+|Indiana Jones|Coen Brothers;|Adventure;Drama;|22|Male|Buenos Aires|4.700000|143
+|Indiana Jones|David Fincher;|Drama;Thriller;|35|Other|Buenos Aires|3.200000|183
+|Indiana Jones|George Lucas;Ridley Scott;|Adventure;Comedy;|27|Female|Berlin|5.000000|69
+|Indiana Jones|James Cameron;Tim Burton;|Sci-Fi;|20|Male|Mumbai|3.200000|146
+|Indiana Jones|John Woo;|Sci-Fi;|24|Male|San Francisco|0.800000|120
+|Indiana Jones|Peter Jackson;Woody Allen;Michael Bay;|Thriller;|34|Female|Madrid|1.500000|239
+|Indiana Jones|Tim Burton;Alfred Hitchcock;David Lynch;|Comedy;|24|Other|San Francisco|3.100000|157
+|Indiana Jones|Tim Burton;Woody Allen;Paul Thomas Anderson;|Adventure;|32|Female|Seoul|4.300000|151
+|Jurassic Park|Christopher Nolan;|Drama;Sci-Fi;|9|Male|Singapore|2.000000|158
+|Jurassic Park|John Woo;Wes Anderson;Tim Burton;|Sci-Fi;Action;|28|Male|Miami|1.600000|106
+|Jurassic Park|Peter Jackson;Alfred Hitchcock;Michael Bay;|Action;Comedy;|25|Female|Seoul|3.000000|95
+|Jurassic Park|Peter Jackson;Coen Brothers;|Drama;|14|Female|Rome|0.100000|191
+|Jurassic Park|Quentin Tarantino;|Action;Thriller;Action;|28|Female|Rio de Janeiro|2.800000|87
+|Jurassic Park|Tim Burton;Roman Polanski;|Thriller;Action;Thriller;|38|Male|Mexico City|0.800000|189
+|Pulp Fiction|Akira Kurosawa;Tim Burton;|Adventure;|2|Other|Seoul|2.900000|231
+|Pulp Fiction|Alfred Hitchcock;Clint Eastwood;Wes Anderson;|Adventure;|8|Male|Bangkok|4.100000|212
+|Pulp Fiction|David Fincher;John Woo;|Sci-Fi;Sci-Fi;Adventure;|34|Male|Mexico City|4.800000|109
+|Pulp Fiction|Martin Scorsese;John Woo;Quentin Tarantino;|Adventure;Adventure;|6|Female|Dubai|0.900000|68
+|Pulp Fiction|Martin Scorsese;Michael Bay;|Action;|25|Other|Madrid|2.300000|224
+|Pulp Fiction|Michael Bay;Martin Scorsese;|Thriller;Thriller;Sci-Fi;|32|Male|Sydney|4.700000|181
+|Pulp Fiction|Wes Anderson;David Lynch;|Action;Comedy;|35|Other|Mumbai|4.100000|172
+|Star Wars|David Fincher;Ridley Scott;John Woo;|Drama;|38|Other|São Paulo|1.800000|174
+|Star Wars|George Lucas;Woody Allen;|Adventure;Action;|5|Female|Singapore|0.100000|154
+|Star Wars|John Woo;Peter Jackson;Christopher Nolan;|Adventure;|12|Female|Rome|1.000000|161
+|Star Wars|Michael Bay;James Cameron;|Thriller;|17|Other|Moscow|1.700000|167
+|Star Wars|Paul Thomas Anderson;Ridley Scott;|Action;|19|Female|Beijing|2.700000|215
+|Star Wars|Quentin Tarantino;|Thriller;|31|Other|Sydney|1.000000|200
+|Star Wars|Ridley Scott;Martin Scorsese;|Action;|17|Female|Sydney|4.600000|165
+|Star Wars|Ridley Scott;|Sci-Fi;|-4|Female|Seoul|3.800000|190
+|Star Wars|Wes Anderson;Quentin Tarantino;|Sci-Fi;Thriller;|33|Male|Cairo|3.900000|224
+|The Avengers|Alfred Hitchcock;Ang Lee;Paul Thomas Anderson;|Adventure;Comedy;|9|Other|Madrid|4.800000|120
+|The Avengers|Alfred Hitchcock;Coen Brothers;Peter Jackson;|Sci-Fi;Action;|21|Male|Mumbai|4.400000|167
+|The Avengers|Alfred Hitchcock;David Lynch;James Cameron;|Adventure;Drama;|32|Male|Berlin|2.600000|193
+|The Avengers|Ang Lee;David Lynch;|Action;Thriller;Action;|19|Female|Berlin|4.900000|222
+|The Avengers|Coen Brothers;Roman Polanski;Coen Brothers;|Drama;Adventure;|32|Female|Berlin|1.400000|138
+|The Avengers|Coen Brothers;|Sci-Fi;Thriller;Drama;|34|Other|Toronto|2.300000|124
+|The Avengers|Steven Spielberg;|Adventure;Thriller;Action;|12|Female|São Paulo|3.400000|223
+|The Avengers|Tim Burton;David Fincher;|Action;Adventure;Comedy;|25|Other|Rome|4.500000|215
+|The Avengers|Woody Allen;|Thriller;Drama;Adventure;|22|Other|Madrid|4.300000|178
+|The Dark Knight|Akira Kurosawa;|Thriller;|39|Female|Berlin|0.300000|192
+|The Dark Knight|Ang Lee;Quentin Tarantino;|Thriller;Action;Drama;|27|Other|Madrid|5.000000|236
+|The Dark Knight|Christopher Nolan;|Thriller;|31|Male|Rome|1.000000|66
+|The Dark Knight|David Lynch;Akira Kurosawa;|Sci-Fi;|16|Male|Toronto|0.700000|182
+|The Dark Knight|Paul Thomas Anderson;Roman Polanski;Ang Lee;|Comedy;Drama;Sci-Fi;|26|Other|Tokyo|1.600000|219
+|The Dark Knight|Peter Jackson;|Adventure;Drama;|20|Male|Mexico City|0.200000|144
+|The Dark Knight|Quentin Tarantino;Quentin Tarantino;Peter Jackson;|Adventure;Action;|16|Female|Madrid|4.600000|139
+|The Dark Knight|Stanley Kubrick;Martin Scorsese;|Sci-Fi;|30|Female|Sydney|1.300000|135
+|The Dark Knight|Stanley Kubrick;|Action;Action;|36|Female|Toronto|2.600000|138
+|The Exorcist|Francis Ford Coppola;Stanley Kubrick;|Adventure;Action;Thriller;|34|Female|Buenos Aires|0.900000|223
+|The Exorcist|John Woo;|Sci-Fi;Adventure;Comedy;|18|Male|Madrid|3.600000|210
+|The Exorcist|Quentin Tarantino;Coen Brothers;|Sci-Fi;Thriller;|14|Female|Cairo|4.800000|218
+|The Exorcist|Spike Lee;|Thriller;Thriller;Action;|4|Other|Bangkok|3.000000|201
+|The Exorcist|Tim Burton;Peter Jackson;|Action;Drama;Drama;|50|Female|London|4.800000|95
+|The Exorcist|Wes Anderson;|Drama;|33|Female|Seoul|0.500000|171
+|The Godfather|Quentin Tarantino;Quentin Tarantino;Tim Burton;|Action;Thriller;Comedy;|44|Female|Rome|1.200000|147
+|The Godfather|Stanley Kubrick;|Drama;|24|Female|Los Angeles|0.300000|102
+|The Godfather|Steven Spielberg;Paul Thomas Anderson;David Fincher;|Comedy;Adventure;|4|Male|Moscow|2.900000|189
+|The Lion King|Akira Kurosawa;Wes Anderson;|Action;Drama;|20|Male|Tokyo|1.700000|102
+|The Lion King|Francis Ford Coppola;Spike Lee;Martin Scorsese;|Drama;|15|Other|Seoul|3.600000|115
+|The Lion King|Francis Ford Coppola;Stanley Kubrick;|Action;|30|Other|Toronto|4.600000|176
+|The Lion King|Francis Ford Coppola;|Drama;|26|Female|Moscow|4.500000|102
+|The Lion King|George Lucas;Ang Lee;Roman Polanski;|Drama;Action;Drama;|28|Female|Berlin|3.900000|176
+|The Lion King|John Woo;|Thriller;|30|Male|London|1.000000|183
+|The Lion King|Martin Scorsese;Woody Allen;Christopher Nolan;|Adventure;Adventure;|33|Male|London|2.900000|226
+|The Lion King|Michael Bay;|Action;Sci-Fi;Comedy;|25|Female|Berlin|2.200000|194
+|The Lion King|Peter Jackson;Tim Burton;Christopher Nolan;|Drama;Comedy;Action;|33|Other|Paris|3.100000|237
+|The Lion King|Roman Polanski;John Woo;|Action;|36|Female|Mumbai|2.700000|161
+|The Lion King|Roman Polanski;Spike Lee;Martin Scorsese;|Comedy;|19|Other|Rio de Janeiro|0.500000|195
+|The Lion King|Roman Polanski;Wes Anderson;|Adventure;|22|Other|London|4.500000|233
+|The Lion King|Roman Polanski;|Adventure;Adventure;|19|Male|New York|3.800000|215
+|The Lion King|Spike Lee;Francis Ford Coppola;Stanley Kubrick;|Drama;Thriller;Adventure;|26|Other|Tokyo|2.300000|149
+|The Lion King|Steven Spielberg;Martin Scorsese;|Action;Drama;Sci-Fi;|27|Male|Moscow|4.500000|113
+|The Lord of the Rings|Christopher Nolan;David Fincher;|Thriller;Adventure;|29|Female|Rome|2.800000|183
+|The Lord of the Rings|David Fincher;Martin Scorsese;|Action;Comedy;Adventure;|30|Other|São Paulo|3.100000|142
+|The Lord of the Rings|Francis Ford Coppola;Woody Allen;Ridley Scott;|Action;|33|Other|Toronto|1.200000|90
+|The Lord of the Rings|George Lucas;|Adventure;Comedy;|15|Male|Tokyo|4.100000|229
+|The Lord of the Rings|John Woo;Akira Kurosawa;Christopher Nolan;|Adventure;|18|Male|Buenos Aires|2.600000|194
+|The Lord of the Rings|Martin Scorsese;Michael Bay;|Drama;Thriller;Comedy;|27|Male|Rio de Janeiro|1.500000|130
+|The Lord of the Rings|Peter Jackson;John Woo;|Drama;Comedy;|2|Female|Beijing|0.400000|203
+|The Lord of the Rings|Quentin Tarantino;David Fincher;Alfred Hitchcock;|Thriller;Sci-Fi;Comedy;|25|Female|Rome|3.600000|161
+|The Matrix|Francis Ford Coppola;Steven Spielberg;|Sci-Fi;Sci-Fi;Thriller;|35|Other|Mumbai|3.800000|94
+|The Matrix|James Cameron;Coen Brothers;David Fincher;|Action;Drama;|20|Other|Moscow|1.900000|114
+|The Matrix|James Cameron;Ridley Scott;Martin Scorsese;|Action;|21|Male|San Francisco|3.300000|203
+|The Matrix|Paul Thomas Anderson;Ridley Scott;Paul Thomas Anderson;|Adventure;|31|Other|Moscow|3.600000|239
+|The Matrix|Quentin Tarantino;|Sci-Fi;Drama;Sci-Fi;|40|Female|Chicago|2.400000|91
+|The Matrix|Tim Burton;|Comedy;Adventure;Thriller;|33|Male|Tokyo|4.000000|167
+|The Matrix|Wes Anderson;John Woo;Christopher Nolan;|Thriller;Action;Adventure;|10|Male|San Francisco|2.800000|89
+|The Matrix|Woody Allen;Steven Spielberg;Michael Bay;|Thriller;Thriller;Drama;|17|Female|Dubai|4.200000|149
+|The Shawshank Redemption|Akira Kurosawa;|Action;Sci-Fi;|17|Male|Chicago|1.100000|109
+|The Shawshank Redemption|Christopher Nolan;Alfred Hitchcock;Michael Bay;|Drama;Thriller;Adventure;|26|Other|Sydney|4.400000|233
+|The Shawshank Redemption|Clint Eastwood;Francis Ford Coppola;|Action;Comedy;Drama;|13|Male|São Paulo|3.200000|108
+|The Shawshank Redemption|Stanley Kubrick;John Woo;|Adventure;Adventure;Adventure;|32|Female|Chicago|2.400000|182
+|The Shawshank Redemption|Tim Burton;Woody Allen;Peter Jackson;|Sci-Fi;|8|Other|Mumbai|1.100000|133
+|The Terminator|Christopher Nolan;Ang Lee;|Sci-Fi;Thriller;|27|Male|Los Angeles|3.100000|106
+|The Terminator|David Fincher;|Drama;Action;Drama;|21|Female|Beijing|1.700000|100
+|The Terminator|Francis Ford Coppola;Coen Brothers;John Woo;|Adventure;Adventure;Comedy;|48|Male|Toronto|1.800000|150
+|The Terminator|Quentin Tarantino;George Lucas;|Comedy;Adventure;Thriller;|13|Other|Dubai|3.200000|104
+|The Terminator|Roman Polanski;Christopher Nolan;|Thriller;Adventure;|19|Other|Madrid|4.600000|214
+|The Terminator|Spike Lee;Tim Burton;|Thriller;Drama;|43|Male|Beijing|0.300000|172
+|The Terminator|Steven Spielberg;|Adventure;|33|Female|Chicago|0.200000|94
+|Titanic|Akira Kurosawa;Alfred Hitchcock;|Thriller;Sci-Fi;|39|Other|Rome|1.800000|88
+|Titanic|Christopher Nolan;Coen Brothers;Peter Jackson;|Adventure;Drama;Comedy;|14|Female|Madrid|2.000000|110
+|Titanic|Clint Eastwood;James Cameron;|Comedy;Adventure;Adventure;|32|Other|San Francisco|2.100000|76
+|Titanic|Michael Bay;Coen Brothers;Francis Ford Coppola;|Thriller;Adventure;Thriller;|13|Female|Paris|0.200000|222
+|Titanic|Quentin Tarantino;Woody Allen;Paul Thomas Anderson;|Sci-Fi;Drama;|11|Other|Singapore|0.200000|63
+|Titanic|Roman Polanski;Steven Spielberg;|Comedy;Comedy;Adventure;|31|Female|Madrid|2.300000|158
+|Titanic|Tim Burton;Alfred Hitchcock;|Thriller;|33|Other|Mumbai|1.500000|140
+|Titanic|Woody Allen;Peter Jackson;|Adventure;|28|Male|Toronto|2.000000|146
