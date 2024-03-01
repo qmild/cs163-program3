@@ -2,7 +2,11 @@
 // bryc3@pdx.edu
 // CS163 Program #3
 //
-// <- header comments go here!
+// This file implements UserData class. We have the following public interface 
+// - init: takes all data needed by the object as input and creates an instance of the class with those values
+// - display: displays data values of an instance of the clas
+  
+};
 
 class UserData
 {

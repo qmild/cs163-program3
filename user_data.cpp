@@ -2,7 +2,7 @@
 // bryc3@pdx.edu
 // CS163 Program #3
 //
-// <- header comments go here!
+// This file implements our UserData class. The specific methods are described in comments throughout the file
 
 #include "user_data.h"
 #include <cstring>
